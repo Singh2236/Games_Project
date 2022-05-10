@@ -18,8 +18,6 @@ public class Client {
             BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(connection.getOutputStream()));
             BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream()));
             Scanner scanner = new Scanner(System.in);
-            String serviceRequest = "";
-            String msgFromServer = "";
 
 
             //Services available
@@ -30,8 +28,9 @@ public class Client {
                 System.out.print("Your input: ");
                 String input = scanner.nextLine();
 
+                String serviceRequest;
                 if ("1".equals(input)) {
-                    serviceRequest = "Enum.\n";
+                    serviceRequest = "SignUp\n";
                     bw.write(serviceRequest);
                     bw.flush();
 
@@ -40,13 +39,10 @@ public class Client {
                     bw.write(clientSignUp.getUserPass());
                     bw.flush();
 
-                    msgFromServer = br.readLine();
+                    String msgFromServer = br.readLine();
                     System.out.println(msgFromServer);
                 }
                 else if ("2".equals(input)) {
-                    //Login : call the authentication method -> returns boolean
-                    // -> play game or quit to outer menu
-                    // -> instantiate the method to play
                     serviceRequest = "login\n";
                     bw.write(serviceRequest);
                     bw.flush();
@@ -59,13 +55,7 @@ public class Client {
                     String verification = br.readLine();
                     if (verification.equals("true")) {
                         System.out.println("LoggedInSuccessfully");
-
-                        GamesHome gamesHome = new GamesHome();
-                        gamesHome.playGames();
-
-
-
-
+                        GamesHome.playGames();
                         System.out.println("playing games");
                     }
                     else if (verification.equals("false")) {
@@ -73,15 +63,9 @@ public class Client {
 
                     }
                     else System.out.println("neither true nor false");
-
-                    System.out.println("13");
-
-
                 }
                 else if (input.equals("3")) {
                     serviceRequest = "quit";
-                    System.out.println("14");
-
                     break;
                 }
                 else System.out.println("Try Again!");
