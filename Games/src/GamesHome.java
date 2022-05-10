@@ -10,13 +10,14 @@ public class GamesHome {
 
         while (true) {
             System.out.println("Choose Your Game");
-            System.out.println("1. TikTakToe 2. Coming Soon 3. Go back");
+            System.out.println("1. TikTakToe 2. BullsNCows 3. Go back");
             int input = scanner.nextInt();
             if (input == 1) {
                 TikTakToe.play();
             }
             else if (input == 2) {
-                System.out.println("New Games are being added soon!");
+                BullsNCows.play();
+
 
             }
             else if (input == 3) {

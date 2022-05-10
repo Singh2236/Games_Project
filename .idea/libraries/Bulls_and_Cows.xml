@@ -1,0 +1,95 @@
+<component name="libraryTable">
+  <library name="Bulls and Cows">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/task/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/task/test" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/Adding items/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/Concat positive numbers/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/How to get an element by the index/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/Output the list's elements/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/Removing items/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/The behavior of methods/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/ArrayList/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Boxing and unboxing/Initializing long value/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Boxing and unboxing/Safe converting/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Boxing and unboxing/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Addresses/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Implement comparing by additional fields/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Leaderboard/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Natural ordering/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Ratings/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Comparable/Value class/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Determine the integer part/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Distance/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Existing floating-point types/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Find X/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Statements/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Floating-point types/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/Boxes are not just objects_/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/Correct the usage of non-generic class/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/Initialize an object of a generic class/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/Reusing code with Object/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Generics and Object/What is a type/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Account/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Book/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Choose a pair of getter and setter/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Complex/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Getting the fullname/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Getters and setters/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Inheritance/Classes for Hospital/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Inheritance/Incorrect class hierarchies/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Inheritance/The lost modifier/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Inheritance/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Interface/Account Service/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Interface/Statements/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Interface/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Correct the program/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Creating instances/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Declaring generic classes - 2/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Declaring generic classes/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Pastry packing optimization/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Type arguments - 2/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Introduction to generic programming/Type arguments/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Math library/The angle between vectors/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Math library/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Package/Getting input/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Package/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Determine the output/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Determine the value (1)/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Determine the value/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Move the first N characters/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Palindrome/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/The lucky ticket/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Processing strings/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Random/Choose a correct invocation/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Random/Find the seed/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Random/Gaussian random numbers/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/Random/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/StringBuilder/Behold the power of StringBuilder/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/StringBuilder/Concat all strings without digits/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/StringBuilder/Multiple modifications/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/StringBuilder/The English alphabet/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/StringBuilder/Theory/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Backward indexes/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Greek letters/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Implementations/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Mutable lists/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Replacing ArrayList with LinkedList/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Results of operations/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Select correct assignments/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Setting a new name/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/The longest string in the list/src" />
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Topics/The List interface/Theory/src" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../Bulls and Cows/Bulls and Cows/task/src/bullscows" />
+    </excluded>
+  </library>
+</component>
