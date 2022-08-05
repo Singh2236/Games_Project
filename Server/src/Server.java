@@ -13,11 +13,11 @@ public class Server {
             System.out.println("ServerSocket is waiting for clients ");
 
             while (true) {
+                ClientHandler clientHandler;
                 connection = serverSocket.accept();
-                System.out.println("Connected with client");
+                    System.out.print("Connected with client");
+                    clientHandler = new ClientHandler(connection);
 
-
-                ClientHandler clientHandler = new ClientHandler(connection);
                 Thread thread = new Thread(clientHandler);
                 thread.start();
 
@@ -25,7 +25,7 @@ public class Server {
 
 
         } catch (IOException e) {
-            System.out.println("IOexception ");
+            System.out.println("IOException ");
         }
     }
 
