@@ -23,11 +23,10 @@ public class ClientHandler implements Runnable {
             //Read
             while (true) {
                 userDataStore.userMap();
-                System.out.println("11");
+
                 String input = br.readLine();
-                System.out.println("12");
                 if (input != null) {
-                    System.out.println("13");
+
                     System.out.println("Clint wants to: " + input);
 
 

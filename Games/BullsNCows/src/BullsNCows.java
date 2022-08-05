@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class BullsNCows {
+public class
+
+BullsNCows {
     static int turn = 1;
     static int character;
 

@@ -4,7 +4,7 @@ import java.util.Map;
 public class UserDataStore {
     private static UserDataStore instance;
 
-    private Map<String, String> userMap = new HashMap<>();
+    private final Map<String, String> userMap = new HashMap<>();
 
     public static UserDataStore getInstance() {
         if (instance == null) {
